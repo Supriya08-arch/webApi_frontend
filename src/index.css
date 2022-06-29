@@ -1,0 +1,50 @@
+.orderitem h1 {
+    font-size: 16 px !important;
+}
+
+.admin {
+    background-color: white !important;
+    color: black;
+}
+
+.admin li {
+    list-style-type: none !important;
+    display: inline !important;
+    margin-left: 20px !important;
+}
+
+.admin-links {
+    color: #041C32;
+    text-decoration: none !important;
+}
+
+#dropdown-basic-button {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+#dropdown-basic-button:active,
+#dropdown-basic-button:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.del-td:hover {
+    background-color: #f63440;
+    color: white;
+}
+
+.myorder {
+    background-color: wheat;
+}
+
+.notice-box {
+    /* background-color: white; */
+    color: #f63440;
+}

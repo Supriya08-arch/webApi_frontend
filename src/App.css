@@ -1,0 +1,45 @@
+.mycontainer {
+  margin-top: 60px !important;
+}
+
+.mycard {
+  border: none;
+  outline: none;
+  background-color: #fff;
+  border-radius: 20px;
+  transition: transform 0.3s;
+}
+
+.mycard:hover {
+  transform: translatey(-15px);
+  transition: transform 0.3s;
+}
+
+.text1 {
+  font-size: 13px;
+  color: grey;
+}
+
+.info {
+  line-height: 17px;
+}
+
+.const span {
+  color: #ff7a00;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.adminProduct {
+  background: #dc3545;
+}
+
+.adminProduct:hover {
+  opacity: 0.8;
+}
+
+.mycursor {
+  cursor: pointer;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
